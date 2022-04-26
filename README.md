@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IrishOlly77
 - 👀 I’m interested in further my knowledge in coding
-- 🌱 I’m currently learning with the School of Code
+- 🌱 I’m currently a cohort of the School of Code Bootcamp 12
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me oliver.s.mcguire@gmail.com
 
